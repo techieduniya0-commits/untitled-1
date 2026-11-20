@@ -1,0 +1,6 @@
+{
+  "name": "TruthLens",
+  "description": "AI-powered multimedia detection and digital forensics platform for analysing images, videos, documents, and audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
